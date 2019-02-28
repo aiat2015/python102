@@ -1,5 +1,5 @@
-# python102
-AIAT Academy Python102
+# Python102 (AIAT Academy)
+
 # **Outline**
 
 # ***Day 1***
@@ -10,7 +10,7 @@ AIAT Academy Python102
  * Windows and Mac
 * Jupyter Notebook Overview
 * Google Colaboratory (Colab)
-* **Break **
+* **Break**
 * Python Basics (Part 1)
  * Interactive Interpreter and Comments
  * Variable and Types, Number and Boolean
