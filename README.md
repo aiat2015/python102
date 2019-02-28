@@ -1,6 +1,7 @@
-# Python102 (AIAT Academy)
+# Python102 (AIAT Academy) **Outline**
+https://academy.aiat.or.th
 
-# **Outline**
+
 
 # ***Day 1***
 
