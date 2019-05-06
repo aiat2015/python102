@@ -46,7 +46,7 @@
  * Matplotlib 
  * Seaborn
 * Tutorial 5: Python for Data Visualisation (T5 - Google Colab)
-* Exercise 5: Data Visualization Project (E5 - Google Colab)
+* Exercise 5: Data Visualization Exercise (E5 - Google Colab)
 
 * **Break**
 * Introduction to Machine Learning 
@@ -74,7 +74,7 @@
  * Natural Language Processing
  * Tutorial 6.3.1: Natural Language Processing (T6_3_1 - Google Colab)
  * Neural Nets and Deep Learning
- * Tutorial 6.3.2: Neural Nets and Deep Learning (T6_3_2 - Google Colab)
+ * Tutorial 6.3.2(a, b, c): Neural Nets and Deep Learning (T6_3_2(a,b, c) - Google Colab)
 * Exercise 6.3.1: Machine Learning Exercise 3.1 - Natural Language Processing (E6_3_1 - Google Colab)
 * Exercise 6.3.2: Machine Learning Exercise 3.2 - Neural Nets and Deep Learning (E6_3_2 - Google Colab)
 
@@ -82,6 +82,4 @@
 
 ---
 
-Materials: 
-
-
+Materials: https://github.com/tchayintr/python102
