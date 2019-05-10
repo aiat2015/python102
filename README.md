@@ -82,3 +82,4 @@
 ---
 
 Materials: https://github.com/tchayintr/python102
+Colab: http://bit.ly/2vOuCL5
