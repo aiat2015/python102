@@ -47,7 +47,6 @@
  * Seaborn
 * Tutorial 5: Python for Data Visualisation (T5 - Google Colab)
 * Exercise 5: Data Visualization Exercise (E5 - Google Colab)
-
 * **Break**
 * Introduction to Machine Learning 
 * Machine Learning Basics with Python (Part 1)
