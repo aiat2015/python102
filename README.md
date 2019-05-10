@@ -82,3 +82,5 @@
 ---
 
 Materials: https://github.com/aiat2015/python102
+
+Colab: http://bit.ly/2vOuCL5
